@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+yfinance
+plotly
+seaborn
+matplotlib
+scipy
+scikit-learn
+tensorflow
+langchain
+langchain-groq
+python-dotenv
+statsmodels
